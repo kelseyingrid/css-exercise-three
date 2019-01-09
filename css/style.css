@@ -23,7 +23,7 @@ h3 {
   background-color: #E8E8E9;
   border-bottom: 1px solid grey;
   margin: 0%;
-  padding: 7% 5%;
+  padding: 3% 5%;
   width: 100%
 }
 
@@ -33,7 +33,6 @@ h3 {
 
 .content {
   display: inline-block;
-  float:left;
 }
 
 .arrow {
