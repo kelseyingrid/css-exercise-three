@@ -23,7 +23,7 @@ h3 {
   background-color: #E8E8E9;
   border-bottom: 1px solid grey;
   margin: 0%;
-  padding: 4% 5%;
+  padding: 7% 5%;
   width: 100%
 }
 
@@ -31,9 +31,16 @@ h3 {
   background-color: #C3C4C4;
 }
 
+.content {
+  display: inline-block;
+  float:left;
+}
+
 .arrow {
+  display: inline-block;
   float: right;
   padding: 1.5% 5%;
+  width: 10%
 }
 
 .arrow-left {
